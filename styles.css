@@ -122,7 +122,7 @@ section{
 .Home-img img {
     border-radius: 50%;
     filter: drop-shadow(#ff9f0d 0px 1px 25px);
-    width: 550px; 
+    width: 1000px; 
     height: auto;
     display: block;
 }
